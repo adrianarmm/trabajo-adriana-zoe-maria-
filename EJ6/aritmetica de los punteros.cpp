@@ -15,6 +15,7 @@ int main()
 
     std::cout << "Valor asignado: " << *p << std::endl;
     
+
     delete p;
 
     return 0;
