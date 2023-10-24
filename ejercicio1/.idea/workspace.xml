@@ -19,7 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="537bffdf-54b1-4074-ac38-557f6598ca6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "Zoe",
+    "last_opened_file_path": "C:/Users/macer/Documents/GitHub/trabajo-con-zoe/ejercicio 3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698143220291</updated>
-      <workItem from="1698143221510" duration="452000" />
+      <workItem from="1698143221510" duration="1289000" />
     </task>
     <servers />
   </component>
